@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="./assets/logo.jpg" width="200">
   <h1>kokomi.js</h1>
@@ -137,3 +138,6 @@ Give a ⭐️ if this project helped you!
 ---
 
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+=======
+# example
+>>>>>>> cab70d95fc631936e7e6fce6dda86bd397dffaaa
